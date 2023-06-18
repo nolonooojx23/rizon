@@ -1,0 +1,74 @@
+.product_info{
+	width: 100%;
+	padding: 0px 60px;
+	margin-top: 100px;
+}
+
+.product_info_main{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 20px;
+	background-color: white;
+	padding: 60px 30px;
+	border-radius: 41px;
+}
+
+.product_info_text{
+	color: #002940;
+}
+
+.product_info_text h2{
+	font-size: 31.2px;
+	color: #000AFF;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+
+.product_info_text h1{
+	margin-bottom: 10px;
+	font-size: 62px;
+}
+
+.product_info_text p{
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+.list p{
+	display: flex;
+	align-items: center;
+	font-size: 18px;
+}
+
+.list p b{
+	color: lime;
+	margin-right: 10px;
+}
+
+.product_info_img img{
+	width: 538px;
+	height: 538px;
+}
+
+.product_info_button{
+	margin-top: 40px;
+	padding: 10px 35px;
+	color: #35BAB8;
+	font-size: 16.2px;
+	font-weight: 600;
+	background-color: black;
+	cursor: pointer;
+	border: none;
+	outline: none;
+	border-radius: 5.57px;
+}
+
+.product_medicen_cards{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top: 30px;
+}

@@ -1,0 +1,24 @@
+.products{
+	width: 100%;
+	text-align: center;
+	padding: 0px 60px;
+	margin-top: 180px;
+}
+
+.products h1{
+	font-size: 44px;
+	font-weight: 900px;
+}
+
+.products p{
+	margin-top: 5px;
+	font-size: 24px;
+}
+
+.products_cards{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top: 30px;
+}
